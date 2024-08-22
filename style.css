@@ -1,0 +1,133 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-family: "Open Sans", sans-serif;
+  color: #1b1b1b;
+}
+
+#page {
+  width: 1120px;
+  margin: 48px auto 0px;
+}
+
+#title-page {
+  margin-bottom: 40px;
+}
+
+#title-page p {
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #e1624f;
+  font-weight: bold;
+  line-height: auto;
+  margin-bottom: 8px;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+img {
+  border-radius: 24px;
+}
+
+#description img {
+  margin-bottom: 24px;
+}
+
+p {
+  color: #333333;
+}
+
+#description p {
+  font-size: 16px;
+  font-style: italic;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+#content-list hr {
+  border: none;
+  height: 1px;
+  background-color: #d9d9d9;
+  margin-bottom: 64px;
+}
+
+#title-list {
+  margin-bottom: 40px;
+}
+
+#title p {
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #e1624f;
+  font-weight: bold;
+  line-height: auto;
+  margin-bottom: 8px;
+}
+
+h2 {
+  font-size: 32px;
+  margin-bottom: 8px;
+}
+
+#paragraph {
+  font-size: 16px;
+}
+
+#card {
+  margin-bottom: 48px;
+}
+
+#card img {
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 28px;
+  margin-bottom: 4px;
+}
+
+#bold {
+  font-weight: bold;
+}
+
+#blue {
+  color: #0c51a7;
+}
+
+#pink {
+  color: #591b98;
+}
+
+#rose {
+  color: #e5245e;
+}
+
+#orange {
+  color: #e95e10;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: #d9d9d9;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+#des {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  margin: 65px auto 28px;
+}
+
+footer img {
+  vertical-align: middle;
+}
